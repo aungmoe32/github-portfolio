@@ -2,6 +2,8 @@ import { Sidebar } from "@/components/Sidebar";
 import { AboutMe } from "@/components/AboutMe";
 import { Projects } from "@/components/Projects";
 import { Experience } from "@/components/Experience";
+import { Conclusion } from "@/components/Conclusion";
+import { Hobbies } from "@/components/Hobbies";
 
 export default function Home() {
   return (
@@ -17,7 +19,9 @@ export default function Home() {
             {/* Projects Section */}
             <Projects />
             {/* Experience Section */}
-            <Experience />
+            {/* <Experience /> */}
+            {/* Hobbies Section */}
+            <Hobbies />
           </main>
         </div>
       </div>

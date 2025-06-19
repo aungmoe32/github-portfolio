@@ -38,9 +38,9 @@ export const Profile = () => {
                 width={150}
                 height={150}
                 quality={100}
-                src="/avatar.svg"
+                src="/profile.jpg"
                 alt="Profile Picture"
-                className="rounded-full size-12 md:w-full h-auto object-cover border-2"
+                className="rounded-full size-12 md:size-40 object-cover border-2"
               />
               <div className="flex flex-col items-start justify-center">
                 <h1 className="font-bold md:mt-4 text-xl md:text-2xl">

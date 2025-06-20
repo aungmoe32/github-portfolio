@@ -7,8 +7,6 @@ const skills = [
   "JavaScript",
   "TypeScript",
   "PHP",
-  "Java",
-  "SQL",
 
   // Frameworks/Libraries
   "Laravel",
@@ -16,37 +14,15 @@ const skills = [
   "React",
   "Vue.js",
   "React Native",
-  "Laravel Filament",
-  "Livewire",
-  "Passport",
   "TailwindCSS",
-  "React Query",
-  "React Hook Form",
-  "Zod",
-  "Framer Motion",
-  "Vite",
-  "Webpack",
-
-  // Tools
-  "Git",
-  "Github",
-  "Postman",
-  "Laravel Sail",
-  "Vercel",
 
   // Databases
   "PostgreSQL",
   "MySQL",
-  "S3",
 
   // Expertise
   "RESTful API",
-  "Web APIs",
-  "Web Push",
-  "WebRTC",
   "MVC",
-  "Firebase",
-  "Supabase",
   "Responsive Design",
 ];
 

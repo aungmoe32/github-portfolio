@@ -22,7 +22,7 @@ export const projects = [
     tech: "React + Laravel",
     link: "https://kyaone-frontend-lbad.vercel.app",
     github: "https://github.com/aungmoe32/myantech",
-    demo: "https://www.youtube.com/watch?v=YQhg8sJxOcg",
+    demo: "https://youtu.be/yrzfl9UrwCo?si=fvXEvkRfsl4-X5NL",
   },
   {
     title: "Passport OAuth Server",
@@ -67,7 +67,7 @@ export const projects = [
     tech: "React + Next.js",
     link: "https://ucms-orpin.vercel.app",
     github: "https://github.com/aungmoe32/ucms",
-    demo: "https://youtu.be/AUF3MB7q9Xo?si=4Vue81lRmyFvyvyJ",
+    demo: "https://youtu.be/hMfTZC_9hsQ?si=m6pDT8P4goit4Vib",
   },
   {
     title: "Clean Blog",
